@@ -2,6 +2,8 @@ import editor.Editor;
 
 import java.util.List;
 
+/** Снимок, также известен как: Хранитель, Memento */
+
 public class App {
 
     public static void main(String[] args) {
